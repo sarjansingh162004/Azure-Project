@@ -1,0 +1,9 @@
+{
+	"name": "df-SarjanAzureProject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a19bb937-c776-4bc9-a35d-f018a72cc1fe",
+		"tenantId": "107e2cc4-5fa7-4643-9b65-85526a20122d"
+	}
+}
